@@ -12,13 +12,18 @@ The Threshold value = 0.5
 
 The code can easily take an input as a video path or can use real time webcams by replacing the video_path to 0.
 
-FIles are attached in the zip file:
+All vedio Files are uploaded on Google Drive:-
 
+Test Folder:-
 Test1 : - First vedio used for Input
 Test2 :- Seconf vedio used for Input
 
 Note:- preferred input vedio dimensions (1280 (width), 720 ( height))
 
+Output Folder:-
 Output1:- Output vedio file for test1 input
 Output2:- Output vedio file for test2 input
+
+Code File:- ipynb file
+
 
